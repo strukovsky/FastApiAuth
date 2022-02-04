@@ -1,0 +1,1 @@
+curl -X 'GET' -H "Authenticate: %AUTH_TOKEN%" localhost:8000
